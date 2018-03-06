@@ -1,0 +1,12 @@
+F:\GIS\ASPXMVCMap\TestCPP\TestWinformCSharp\bin\Debug\TestWinformCSharp.exe.config
+F:\GIS\ASPXMVCMap\TestCPP\TestWinformCSharp\bin\Debug\TestWinformCSharp.exe
+F:\GIS\ASPXMVCMap\TestCPP\TestWinformCSharp\bin\Debug\TestWinformCSharp.pdb
+F:\GIS\ASPXMVCMap\TestCPP\TestWinformCSharp\obj\Debug\TestWinformCSharp.Properties.Resources.resources
+F:\GIS\ASPXMVCMap\TestCPP\TestWinformCSharp\obj\Debug\TestWinformCSharp.csproj.GenerateResource.Cache
+F:\GIS\ASPXMVCMap\TestCPP\TestWinformCSharp\obj\Debug\TestWinformCSharp.exe
+F:\GIS\ASPXMVCMap\TestCPP\TestWinformCSharp\obj\Debug\TestWinformCSharp.pdb
+F:\GIS\ASPXMVCMap\TestCPP\TestWinformCSharp\obj\Debug\TestWinformCSharp.Form1.resources
+F:\GIS\ASPXMVCMap\TestCPP\TestWinformCSharp\obj\Debug\TestWinformCSharp.csprojResolveAssemblyReference.cache
+D:\Work\TestCPP\TestWinformCSharp\bin\Debug\TestWinformCSharp.exe.config
+D:\Work\TestCPP\TestWinformCSharp\obj\Debug\TestWinformCSharp.exe
+D:\Work\TestCPP\TestWinformCSharp\obj\Debug\TestWinformCSharp.pdb
